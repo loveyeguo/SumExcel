@@ -10,7 +10,7 @@ using System.Windows.Forms;
 namespace Excel汇总
 {
     /// <summary>
-    /// 帮助
+    /// 帮助2
     /// </summary>
     public class Helper
     {
