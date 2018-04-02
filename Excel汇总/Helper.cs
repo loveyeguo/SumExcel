@@ -9,6 +9,9 @@ using System.Windows.Forms;
 
 namespace Excel汇总
 {
+    /// <summary>
+    /// 帮助
+    /// </summary>
     public class Helper
     {
         public static string SelectPath()
